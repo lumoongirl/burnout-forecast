@@ -90,3 +90,11 @@ A demo dataset is included so the full pipeline works without exposing personal 
 
 ## License
 MIT (or keep Proprietary until you’re ready)
+
+
+### Demo Mode
+
+This repository includes a realistic demo dataset (`data/demo/`) so the
+pipeline can be run without exposing personal data.
+
+Real personal logs are stored locally and intentionally excluded from version control.
